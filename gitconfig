@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mollygaocareer@gmail.com
+	name = Molly Gao
